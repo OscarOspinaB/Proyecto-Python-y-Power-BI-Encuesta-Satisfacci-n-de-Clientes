@@ -24,11 +24,10 @@ El notebook se encuentra subido en este mismo repositorio donde se evidencia el 
 ---
 ## Vistazo al Dashboard
 
-<img width="1431" height="752" alt="image" src="https://github.com/user-attachments/assets/267a9b00-e980-4791-86d7-790a26c23c9f" />
+<img width="1175" height="617" alt="Captura de Pantalla 2026-04-19 a la(s) 10 17 31 p m" src="https://github.com/user-attachments/assets/c3396a14-d3cf-4569-ab09-4f111b811ef7" />
 
 
-
-<img width="1438" height="758" alt="image" src="https://github.com/user-attachments/assets/25b89dd4-5445-440f-af59-5b15658e69f2" />
+<img width="1173" height="615" alt="Captura de Pantalla 2026-04-19 a la(s) 10 17 46 p m" src="https://github.com/user-attachments/assets/b5e25206-8b0f-4ead-95d5-b9eb0afa3fae" />
 
 
 
