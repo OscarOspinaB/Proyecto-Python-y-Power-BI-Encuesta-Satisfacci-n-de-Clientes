@@ -40,6 +40,8 @@ Los datos provienen de Kaggle, de la usuaria: `Data Regina`, pueden acceder al d
 
 [Datasets para Proyecto BI - Satisfacción Clientes](https://kaggle.com)
 
+<img width="1150" height="579" alt="image" src="https://github.com/user-attachments/assets/89a440c8-fb56-4d16-ac90-2002f4f70077" />
+
 ---
 
 
