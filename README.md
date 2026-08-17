@@ -37,7 +37,7 @@ El notebook se encuentra subido en este mismo repositorio donde se evidencia el 
 
 Los datos provienen de Kaggle, de la usuaria: `Data Regina`, pueden acceder al dataset desde el siguiente link:
 
-[Datasets para Proyecto BI - Satisfacción Clientes](https://kaggle.com)
+[Datasets para Proyecto BI - Satisfacción Clientes]([https://kaggle.com](https://www.kaggle.com/datasets/dataregina/datasets-para-proyecto-bi-satisfaccin-clientes))
 
 <img width="1150" height="579" alt="image" src="https://github.com/user-attachments/assets/89a440c8-fb56-4d16-ac90-2002f4f70077" />
 
